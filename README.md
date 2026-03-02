@@ -1,7 +1,7 @@
 ## Hi there 👋
-**khachuk123/Khachuk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hello everyone i'm Tongthok Khachuk Debbarma, i've done my scooling from st.paul school, Agartala after which i'm currently persuing my gruaduation in b.tec from Tripura Institue of technology under Computer Science & Engineering branch
 
-Here are some ideas to get you started:
+## location U=1F4CC
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
